@@ -6,7 +6,11 @@ __pycache__/
 .Python
 env/
 venv/
+<<<<<<< HEAD
 .venv/
+=======
+.venv
+>>>>>>> 2c69a8445f6f7b2d00e68dde9e93035ae3f80cfc
 .env
 
 # --- Mac OS (If you or colleagues use Macs) ---
