@@ -31,7 +31,7 @@ The project is organized by technology and purpose. Please ensure you place new 
 ### Prerequisites
 To run the scripts in this repository, ensure your environment is set up with:
 - OS: Ubuntu Server 20.04/22.04 LTS (recommended)
-- Python: v3.8+ (Run pip install -r requirements.txt inside specific Python project folders)
+- Python: v3.8+ (Run ```pip install -r requirements.txt``` inside specific Python project folders)
 - Shell: Zsh or Bash
 
 ### Installation & Setup
