@@ -71,7 +71,7 @@ git commit -m "Add: New automation script for daily reporting"
 ```
 4. Push: ```git push origin main```
 
-##⚠️ Security Note: Never commit .env files, passwords, or API keys. Use environment variables instead.
+## ⚠️ Security Note: Never commit .env files, passwords, or API keys. Use environment variables instead.
 
 ### 📞 Support & Contact
 Maintainer: Ulli Obermeier
