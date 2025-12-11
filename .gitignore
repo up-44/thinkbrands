@@ -6,6 +6,8 @@ __pycache__/
 .Python
 env/
 venv/
+.venv/
+.venv
 .env
 
 # --- Mac OS (If you or colleagues use Macs) ---
